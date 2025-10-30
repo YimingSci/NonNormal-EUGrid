@@ -10,7 +10,8 @@ Using data from the respective transmission system operators (TSOs), Fig. S1(a�
 
 Fig. S1(d) summarizes the initial disturbance setup, where more than ten individual power-loss events are grouped into six representative buses, each named after a nearby major city. The Bus ID corresponds to the simulated disturbance node and can be matched to the bus numbering in `EUR_2025.mat`.
 
-<img width="1000" alt="图片2" src="https://github.com/user-attachments/assets/150a4c68-7639-4d7e-b3e4-4f67d656fe49" />
+
+<img width="1000" alt="477168272-150a4c68-7639-4d7e-b3e4-4f67d656fe49" src="https://github.com/user-attachments/assets/dea5d861-0b86-46ae-9681-8929a5b0bff8" />
 
 
 **Fig. S1:**
